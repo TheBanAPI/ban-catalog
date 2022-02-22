@@ -21,6 +21,7 @@
 
 
 ## **Banngründe:**
+```
 
 **Hacking:**
 [1] CombatHacks (KillAura, FastBow, Flight…) [2 Monate]
@@ -46,3 +47,4 @@
 
 **Deaktivieren der BanAPI während eines Projektes:**
 [1] Deaktivieren der API während eines Projektes [permanenter Bann]
+```
