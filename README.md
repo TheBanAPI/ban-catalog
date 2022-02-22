@@ -1,6 +1,6 @@
-##**BVO-Bannkatalog:**
+## **BVO-Bannkatalog:**
 
-##Regeln:
+## Regeln:
 
 1: Gebannt werden alle Verstöße gegen die unten aufgelisteten Regeln. 
 2: Es können folgende Punkte für bestimmte Projekte [z.B Hacker-ODV] außerkraft gesetzt werden: Hacking [1 + 2]
@@ -20,7 +20,7 @@
 
 
 
-##**Banngründe:**
+## **Banngründe:**
 
 **Hacking:**
 [1] CombatHacks (KillAura, FastBow, Flight…) [2 Monate]
