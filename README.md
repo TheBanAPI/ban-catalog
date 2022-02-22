@@ -22,16 +22,15 @@
 
 ## **Banngründe:**
 ```
-
-**Hacking:**
+Hacking:
 [1] CombatHacks (KillAura, FastBow, Flight…) [2 Monate]
 [2] NonCombatHacks (x-ray…) [1 Monat]
 
-**Bannumgehung:**
+Bannumgehung:
 [1] Bannumgehung mit 2 Accounts [2 Wochen + Verdopplung des Bannes]
 [2] Unterstützung bei Bannumgehung [1 Woche]
 
-**Ausnutzung der Adminrechte:**
+Ausnutzung der Adminrechte:
 [1] Cheaten von Items, Effekten, Tränken etc  [1 Monat]
 [2] Einflussname auf die Welt zum Vorteil für User [2 Wochen]
 [3] unrechtmäßiges Bannen / Ausschließen von Projekten [2-3 Wochen]
@@ -39,12 +38,12 @@
 [5] Verändern / nicht einhalten des Regelwerkes o. Ankündigung [1-2 Wochen]
 [6] Einflussnahme auf Spieler (Teleportieren etc) [5-7 Tage]
 
-**Nichtausschüttung von Preisgeldern ö.ä:**
+Nichtausschüttung von Preisgeldern ö.ä:
 [1] Nichtausschüttung von Preisen [2-4 Monate bei Herausgabe 2 Wochen]
 
-**Fälschen von Beweisen:** 
+Fälschen von Beweisen:
 [1] Fälschen / bearbeiten von Beweisen [permanente Reportsperre + 6 Monate]
 
-**Deaktivieren der BanAPI während eines Projektes:**
+Deaktivieren der BanAPI während eines Projektes:
 [1] Deaktivieren der API während eines Projektes [permanenter Bann]
 ```
