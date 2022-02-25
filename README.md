@@ -25,6 +25,7 @@
 Hacking:
 [1] CombatHacks (KillAura, FastBow, Flight…) [2 Monate]
 [2] NonCombatHacks (x-ray…) [1 Monat]
+[3] Server-Crashing und (D)DoS-Attacken aller Art [2 Monate] 
 
 Bannumgehung:
 [1] Bannumgehung mit 2 Accounts [2 Wochen + Verdopplung des Bannes]
