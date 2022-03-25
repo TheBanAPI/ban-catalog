@@ -15,7 +15,7 @@
 11. Alle 2 Accounts werden sofort zu einem Main Account gelinkt [Bei genügenden Beweisen]
 12. Die Server Owner dürfen an Tickets von ihrem Netzwerk nicht arbeiten!
 13. Man kann nur für Projekte gebannt werden, wo die BanAPI aktiviert ist. Die BanAPI kann nicht während eines Projektes deaktiviert werden.
-14. Ob SS Tools als Beweis anerkannt wird, ist für jede Anfrage eine Einzelfallentscheidung.
+14. Ob SS Tools als Beweis anerkannt werden, ist für jede Anfrage eine Einzelfallentscheidung.
 
 
 
